@@ -71,7 +71,7 @@
   .theme-footer-one .top-footer {padding: 60px 0 0 0;}
   .header-one .theme-menu-wrapper {margin-bottom: -31px;}
   .theme-menu-wrapper .right-widget .cart-icon a span {top:16px;}
-  .header-two .theme-menu-wrapper .bg-wrapper .logo {left:50%;-webkit-transform:translate(-50% , -50%);transform:translate(-50% , -50%);}
+  .header-two .theme-menu-wrapper .bg-wrapper .logo {top:40px;left:50%;-webkit-transform:translate(-50% , -50%);transform:translate(-50% , -50%);}
   .header-two .theme-menu-wrapper .bg-wrapper {padding-left: 0;}
   .header-two .theme-menu-wrapper .right-widget ul li {line-height: 70px;}
   .header-two .theme-menu-wrapper .right-widget .cart-icon a span {top:20px;}
